@@ -1,0 +1,4 @@
+1: log 1
+2: log 2
+3: log 3
+4: quit
